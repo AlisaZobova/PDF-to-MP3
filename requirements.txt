@@ -1,0 +1,2 @@
+gtts==2.2.4
+pdfplumber==0.7.4
